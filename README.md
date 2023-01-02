@@ -1,6 +1,8 @@
 # the-stream
 A mega-compendium of Degenesis GM Tools for FoundryVTT
 
+I DON'T OWN ANYTHING!!! EVERYTHING BELONGS TO THE ORIGINAL CREATORS!
+
 Please make sure to add your Degnesis PDFs to the modules/the-stream/pdfs folder using the following naming convention:
 
 ![explorer_dh7kr4XF7a](https://user-images.githubusercontent.com/96267129/210195777-2fa0015c-7c7a-48a0-a5af-210b4c86f662.png)
