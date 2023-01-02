@@ -1,0 +1,39 @@
+{
+    "id": "the-stream",
+    "title": "The Stream - Degenesis GM Tool",
+    "description": "Module containing custom journals engineered to translate Degenesis system and its narrative content into FoundryVTT.",
+    "authors": [
+        {
+            "name": "MeatSpace",
+            "discord": "MeatSpace#1881"
+        }
+        ],
+    "version": "0.16",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+        },
+    "packs": [
+        {
+            "name": "timeline",
+            "label": "Timeline: History",
+            "path": "packs/timeline.db",
+            "type": "JournalEntry",
+            "private": false
+        },
+        {
+            "name": "cults",
+            "label": "Cults",
+            "path": "packs/cults.db",
+            "type": "JournalEntry",
+            "private": false
+        },
+        {
+            "name": "pdf-degenesis-source-books",
+            "label": "PDF - Degenesis Source Books",
+            "path": "packs/pdf-degnesis-source-books.db",
+            "type": "JournalEntry",
+            "private": false
+        }
+    ]
+}
