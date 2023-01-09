@@ -2,6 +2,7 @@
 A mega-compendium of Degenesis GM Tools for FoundryVTT
 
 I DON'T OWN ANYTHING!!! EVERYTHING BELONGS TO THE ORIGINAL CREATORS!
+ALSO, REMOVE THE -MAIN EXTENSION FROM THE UNZIPPED FOLDER!
 
 Please make sure to add your Degnesis PDFs to the modules/the-stream/pdfs folder using the following naming convention:
 
