@@ -15,6 +15,7 @@ ___
 	1.  You will have to create "pdfs" folder
 2. Rename your pdfs to follow the file name convention. 
 	1. The "_en" suffix needs to be applied even if your pdf isn't in english.
+
 ![image](https://user-images.githubusercontent.com/96267129/213634409-5801a571-ea7a-4f0e-bf48-60c17a7cd496.png)
 
 ### Usage
