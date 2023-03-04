@@ -4,7 +4,6 @@ ___
 __DISCLAIMER: All logos, images, pictures, textual content and trademarks represented in this module belong to their respective owners. 'the-stream.db' is a derivative work, based on the property '[Degenesis: Rebirth](https://degenesis.com/)' belonging to [SixMoreVodka](https://www.sixmorevodka.com/).__ 
 ___
 
-<<<<<<< HEAD
 I DON'T OWN ANYTHING!!! EVERYTHING BELONGS TO THE ORIGINAL CREATORS!
 =======
 ### Installation
