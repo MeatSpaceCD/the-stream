@@ -15,6 +15,41 @@
         },
     "packs": [
         {
+            "name": "concepts",
+            "label": "Concepts",
+            "path": "packs/concepts.db",
+            "type": "JournalEntry",
+            "private": false
+        },
+        {
+            "name": "cultures",
+            "label": "Cultures",
+            "path": "packs/cultures.db",
+            "type": "JournalEntry",
+            "private": false
+        },
+        {
+            "name": "utiliies-roll-tables",
+            "label": "Utilities: Roll Tables",
+            "path": "packs/utilities-roll-tables.db",
+            "type": "RollTable",
+            "private": false
+        },
+        {
+            "name": "utiliies-macros",
+            "label": "Utilities: Macros",
+            "path": "packs/utilities-macros.db",
+            "type": "Macro",
+            "private": false
+        },
+        {
+            "name": "utiliies-ranks",
+            "label": "Utilities: Ranks",
+            "path": "packs/utilities-ranks.db",
+            "type": "JournalEntry",
+            "private": false
+        },
+        {
             "name": "timeline",
             "label": "Timeline: History",
             "path": "packs/timeline.db",
